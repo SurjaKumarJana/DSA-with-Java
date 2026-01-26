@@ -18,7 +18,7 @@ problem statement:
         0: your guess is equal to the number I picked (i.e. num == pick).
         Return the number that I picked.
  */
-
+/*
 public class GuessNumberHigheOrLower {
     public int guessNumber(int n) {
 
@@ -46,3 +46,4 @@ public class GuessNumberHigheOrLower {
 
     }
 }
+ */

@@ -17,7 +17,7 @@ Implement a function to find the first bad version. You should minimize the numb
 
 
  */
-
+/*
 public class FirstBadVersion {
     public int firstBadVersion(int n) {
 
@@ -44,3 +44,4 @@ public class FirstBadVersion {
         return version;
     }
 }
+*/
