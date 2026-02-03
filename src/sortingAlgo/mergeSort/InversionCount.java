@@ -28,47 +28,43 @@ Constraints:
 
 public class InversionCount {
 
-    static int inversionCount(int arr[]) {
-        int n = arr.length;
-        int temp[] = new int[n];
-        return mergeSort(arr, temp, 0, n - 1);
-    }
-
-    static int mergeSort(int[] arr, int[] temp, int left, int right) {
-        int count = 0;
-
-        if (left < right) {
-            int mid = left + (right - left) / 2;
-
-            count += mergeSort(arr, temp, left, mid);
-            count += mergeSort(arr, temp, mid + 1, right);
-            count += merge(arr, temp, left, mid, right);
-        }
+    public static int count ;
+    public static int inversionCount(int arr[]) {
+        count =0;
+        mergeSort(arr);
         return count;
     }
 
-    static int merge(int[] arr, int[] temp, int left, int mid, int right) {
-        int i = left;     // left subarray
-        int j = mid + 1;  // right subarray
-        int k = left;
-        int count = 0;
+    public static void mergeSort(int[] arr){
+        int n = arr.length;
+        if(n <= 1)  return;
+        int[] a = new int[n/2];
+        int[] b = new int[n-n/2];
 
-        while (i <= mid && j <= right) {
-            if (arr[i] <= arr[j]) {
-                temp[k++] = arr[i++];
-            } else {
-                temp[k++] = arr[j++];
-                count += (mid - i + 1);
+
+        for(int i =0; i<a.length;i++) a[i] = arr[i];
+        for(int i =0; i<b.length;i++) b[i] = arr[a.length+i];
+
+        mergeSort(a);
+        mergeSort(b);
+
+        merge(a, b, arr);
+
+    }
+    public static void merge(int[] a, int[] b, int[] c){
+        int i=0,j=0,k=0;
+        while(i<a.length && j<b.length){
+            if(a[i]<=b[j]) c[k++] = a[i++];
+            else{
+                count += a.length-i;
+                c[k++] = b[j++];
             }
         }
 
-        while (i <= mid) temp[k++] = arr[i++];
-        while (j <= right) temp[k++] = arr[j++];
+        while(i<a.length) c[k++] = a[i++];
+        while(j<b.length) c[k++] = b[j++];
 
-        for (i = left; i <= right; i++) {
-            arr[i] = temp[i];
-        }
-
-        return count;
     }
+
+
 }
