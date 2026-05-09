@@ -6,31 +6,23 @@ problem url: https://leetcode.com/problems/merge-two-sorted-lists/
  */
 public class MergeTwosortedLinkedList {
 
-    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
-        ListNode i = list1;
-        ListNode j = list2;
+    public ListNode mergeTwoLists(ListNode head1, ListNode head2) {
+        ListNode dummy = new ListNode(0);
+        ListNode temp = dummy;
 
-        ListNode dummy = new ListNode(-1);
-        ListNode k = dummy;
-
-        while(i!=null && j!=null){
-
-            if(i.val < j.val){
-                k.next = i;
-                k = k.next;
-                i = i.next;
+        while(head1!=null && head2!=null){
+            if(head1.val < head2.val){
+                temp.next = head1;
+                head1 = head1.next;
             }else{
-                k.next = j;
-                k = k.next;
-                j = j.next;
+                temp.next = head2;
+                head2 = head2.next;
             }
+            temp = temp.next;
         }
 
-        if(i == null){
-            k.next = j;
-        }else{
-            k.next = i;
-        }
+        if(head1==null) temp.next = head2;
+        else temp.next = head1;
 
         return dummy.next;
     }
