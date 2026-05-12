@@ -1,13 +1,13 @@
 package linkedList;
 
 public class Node {
-    int val;
+    int data;
     Node next;
     public Node(){
         super();
     }
     public Node(int val){
-        this.val = val;
+        this.data = val;
     }
 
 }

@@ -16,11 +16,11 @@ public class LinkedListDemo{
         Node e = new Node();
 
         //assigning values;
-        a.val=10;
-        b.val=20;
-        c.val=30;
-        d.val=40;
-        e.val=50;
+        a.data=10;
+        b.data=20;
+        c.data=30;
+        d.data=40;
+        e.data=50;
 
         //linking nodes
         a.next = b;
@@ -35,7 +35,7 @@ public class LinkedListDemo{
     public static void display(Node node){
         Node temp = node;
         while(temp != null){
-            System.out.print(temp.val+" ");
+            System.out.print(temp.data+" ");
             temp = temp.next;
         }
     }

@@ -41,7 +41,7 @@ public class CustomLinkedList {
     void display(Node node){
         Node temp = node;
         while(temp != null){
-            System.out.print(temp.val+" ");
+            System.out.print(temp.data+" ");
             temp = temp.next;
         }
     }
@@ -53,7 +53,7 @@ public class CustomLinkedList {
         Node temp = head;
         int idx =0;
         while(temp != null){
-            if(temp.val == val){
+            if(temp.data == val){
                 return idx;
             }
             temp = temp.next;
