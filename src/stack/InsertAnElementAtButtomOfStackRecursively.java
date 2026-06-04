@@ -10,27 +10,23 @@ problem url: https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bot
 public class InsertAnElementAtButtomOfStackRecursively {
 
     public Stack<Integer> insertAtBottom(Stack<Integer> st, int x) {
-        Stack<Integer> st2 =  new Stack<>();
-        return insert(st,st2,x);
-    }
 
-    public Stack<Integer> insert(Stack<Integer> st, Stack<Integer> st2, int x) {
-
-        //base condition;
+        //base case;
         if(st.isEmpty()){
             st.push(x);
             return st;
         }
 
         //pop the current element
-        st2.push(st.pop());
+        int curr = st.pop();
 
         //recursive calling
-        insert(st,st2,x);
+        insertAtBottom(st,x);
 
         //adding element again
-        st.push(st2.pop());
+        st.push(curr);
 
         return st;
+
     }
 }
