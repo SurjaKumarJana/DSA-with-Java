@@ -2,8 +2,8 @@ package stack;
 
 public class Node  {
 
-    Integer data;
-    Node next;
+    public Integer data;
+    public Node next;
 
     public Node(){}
     public Node(Integer x){this.data = x;}
