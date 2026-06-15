@@ -1,4 +1,4 @@
-package binearySearch;
+package binarySearch;
 
 /*
 problem url:https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1

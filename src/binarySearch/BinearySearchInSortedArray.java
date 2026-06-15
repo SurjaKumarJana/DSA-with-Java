@@ -1,4 +1,4 @@
-package binearySearch;
+package binarySearch;
 /*
     Given an array, arr[] sorted in ascending order and an integer k.
     Return true if k is present in the array, otherwise, false.

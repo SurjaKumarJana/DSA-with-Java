@@ -1,4 +1,4 @@
-package binearySearch;
+package binarySearch;
 /*
 852. Peak Index in a Mountain Array
 

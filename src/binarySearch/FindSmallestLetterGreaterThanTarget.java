@@ -1,4 +1,4 @@
-package binearySearch;
+package binarySearch;
 
 /*
 problem url: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
