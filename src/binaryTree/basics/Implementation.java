@@ -30,6 +30,14 @@ public class Implementation {
         display(a);
         System.out.println();
         System.out.println("size of binary tree is : "+size(a));
+
+
+        preOrder(a);
+        System.out.println();
+        inOrder(a);
+        System.out.println();
+        postOrder(a);
+        System.out.println();
     }
 
     public static void display(Node root){
@@ -43,5 +51,27 @@ public class Implementation {
         if(root == null) return 0;
         //size = this node + No. of nodes in the left subtree + No. of nodes in the right subtree
         return 1 + size(root.left)+ size(root.right);
+    }
+
+    //preOrder traversal in BT
+    public static void preOrder(Node root){
+        if(root == null) return;
+        System.out.print(" "+root.val+" ");
+        preOrder(root.left);
+        preOrder(root.right);
+    }
+    //inOrder traversal in BT
+    public static void inOrder(Node root){
+        if(root == null) return;
+        inOrder(root.left);
+        System.out.print(" "+root.val+" ");
+        inOrder(root.right);
+    }
+    //postOrder traversal in BT
+    public static void postOrder(Node root){
+        if(root == null) return;
+        postOrder(root.left);
+        postOrder(root.right);
+        System.out.print(" "+root.val+" ");
     }
 }
