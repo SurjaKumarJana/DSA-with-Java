@@ -2,23 +2,24 @@ package binaryTree.basics;
 
 
 /*
-problem url: https://www.geeksforgeeks.org/problems/mirror-tree/1
+problem url: https://leetcode.com/problems/invert-binary-tree/
  */
 
-import binaryTree.Node;
+import binaryTree.TreeNode;
 
 public class MirrorTree {
-    void mirror(Node root) {
-        if(root == null) return;
+    public TreeNode invertTree(TreeNode root) {
+
+        if(root == null) return root;
+
+        // recursive call
+        TreeNode t1 = invertTree(root.left);
+        TreeNode t2 = invertTree(root.right);
 
         //swapping of nodes
-        Node node = root.left;
-        root.left = root.right;
-        root.right = node;
+        root.left = t2;
+        root.right = t1;
 
-        //recursive calls to rearrange the child nodes
-        mirror(root.left);
-        mirror(root.right);
-
+        return root;
     }
 }
