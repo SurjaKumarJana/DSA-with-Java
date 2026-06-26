@@ -2,6 +2,9 @@ package binaryTree.basics;
 
 import binaryTree.Node;
 
+import java.util.LinkedList;
+import java.util.Queue;
+
 public class Implementation {
     public static void main(String[] args) {
         /*    example binary tree
@@ -27,17 +30,18 @@ public class Implementation {
 
         c.left = f;
         c.right = g;
-        display(a);
-        System.out.println();
-        System.out.println("size of binary tree is : "+size(a));
-
-
-        preOrder(a);
-        System.out.println();
-        inOrder(a);
-        System.out.println();
-        postOrder(a);
-        System.out.println();
+//        display(a);
+//        System.out.println();
+//        System.out.println("size of binary tree is : "+size(a));
+//
+//
+//        preOrder(a);
+//        System.out.println();
+//        inOrder(a);
+//        System.out.println();
+//        postOrder(a);
+//        System.out.println();
+        levelOrderPrint(a);
     }
 
     public static void display(Node root){
@@ -73,5 +77,16 @@ public class Implementation {
         postOrder(root.left);
         postOrder(root.right);
         System.out.print(" "+root.val+" ");
+    }
+    public static void levelOrderPrint(Node root){
+        Queue<Node> q = new LinkedList<>();
+        q.add(root);
+        while(!q.isEmpty()){
+            Node node = q.remove();
+            System.out.print(node.val+" ");
+            if(node.left != null) q.add(node.left);
+            if(node.right != null) q.add(node.right);
+        }
+        System.out.println();//new line
     }
 }
