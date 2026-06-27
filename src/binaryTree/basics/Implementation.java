@@ -2,8 +2,7 @@ package binaryTree.basics;
 
 import binaryTree.Node;
 
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 public class Implementation {
     public static void main(String[] args) {
@@ -41,7 +40,8 @@ public class Implementation {
 //        System.out.println();
 //        postOrder(a);
 //        System.out.println();
-        levelOrderPrint(a);
+//        levelOrderPrint(a);
+        levelOrderPrint2(a);
     }
 
     public static void display(Node root){
@@ -89,4 +89,28 @@ public class Implementation {
         }
         System.out.println();//new line
     }
+    public static void levelOrderPrint2(Node root){
+        Queue<Pair> queue = new LinkedList<>();
+        queue.add(new Pair(root,1));
+        int currlLevel = 1;
+        while(!queue.isEmpty()){
+            //pop a pair from the queue
+            Pair pair = queue.remove();
+
+            //add extra line if it is the first element of a new level
+            if(pair.level!=currlLevel) {
+                System.out.println();// add an extra line
+                currlLevel++;
+            }
+            //print the current node value
+            System.out.print(pair.node.val+" ");
+
+            //insert the child nodes to the queue if not null
+            if(pair.node.left != null) queue.add(new Pair(pair.node.left,pair.level+1));
+            if(pair.node.right != null) queue.add(new Pair(pair.node.right,pair.level+1));
+        }
+    }
+
+
+
 }
