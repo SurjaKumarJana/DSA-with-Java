@@ -6,7 +6,9 @@ import binaryTree.TreeNode;
 problem url: https://leetcode.com/problems/balanced-binary-tree/
  */
 public class BalancedBinaryTree {
-    public boolean isBalanced(TreeNode root) {
+    //method 1: O(n^2) time complexity solution
+    /*
+        public boolean isBalanced(TreeNode root) {
         //base case:
         if(root == null) return true;
 
@@ -28,4 +30,31 @@ public class BalancedBinaryTree {
 
         return Math.max(leftLevel,rightLevel) + 1;
     }
+
+    */
+
+
+    //method 2: with O(n) time complexity solution....
+
+    public static boolean flag;
+
+    public boolean isBalanced(TreeNode root) {
+        flag = true;
+        getLevels(root);
+        return flag;
+    }
+
+    public int getLevels(TreeNode root){
+        //base case
+        if(root == null) return 0;
+
+        int leftLevel = getLevels(root.left);
+        int rightLevel = getLevels(root.right);
+
+        //checking the binary tree is balaced or not
+        if(Math.abs(leftLevel-rightLevel) > 1) flag = false;
+
+        return Math.max(leftLevel,rightLevel) + 1;
+    }
 }
+
