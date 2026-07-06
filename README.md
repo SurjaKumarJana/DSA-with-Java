@@ -65,7 +65,7 @@ Files: `ArrayBasic.java`
 </details>
 
 <details>
-<summary><b>binaryTree</b> <img src="https://img.shields.io/badge/4-blue?style=flat-square"></summary>
+<summary><b>binaryTree</b> <img src="https://img.shields.io/badge/6-blue?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;basics</summary>
@@ -79,11 +79,15 @@ Files: `ArrayBasic.java`
 <details>
 <summary>&nbsp;&nbsp;medium</summary>
 
-| Problem                                                                                   | Date Solved | Commit Message |
-|-------------------------------------------------------------------------------------------|-------------|---|
-| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 2026-01-15  | `feat: add bst validation` |
-| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 2026-07-05  | `Binary Tree questions` |</details>
-| [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)  | 2026-07-05  | `Binary Tree questions` |
+| Problem                                                                                   | Date Solved | Platform                |
+|-------------------------------------------------------------------------------------------|-------------|-------------------------|
+| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 2026-01-15  | `Leetcode`              |
+| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 2026-07-05  | `Leetcode`              |
+| [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)  | 2026-07-05  | `Geeks For Geeks`       |
+| [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | 2026-07-06  | `Leetcode` |
+| [Min distance between two nodes of a Binary Tree](https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)  | 2026-07-06  | `Geeks For Geeks` |
+
+</details>
 Files: `Node.java`, `TreeNode.java`
 
 </details>
