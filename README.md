@@ -65,30 +65,39 @@ Files: `ArrayBasic.java`
 </details>
 
 <details>
-<summary><b>binaryTree</b> <img src="https://img.shields.io/badge/6-blue?style=flat-square"></summary>
+<summary><b>binaryTree</b> <img src="https://img.shields.io/badge/7-blue?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;basics</summary>
 
-| Problem | Date Solved | Commit Message |
+| Problem | Date Solved | Platform |
 |---|---|---|
-| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 2026-01-12 | `feat: add inorder traversal` |
+| [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 2026-01-12 | `Leetcode` |
 
 </details>
 
 <details>
 <summary>&nbsp;&nbsp;medium</summary>
 
-| Problem                                                                                   | Date Solved | Platform                |
-|-------------------------------------------------------------------------------------------|-------------|-------------------------|
-| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 2026-01-15  | `Leetcode`              |
-| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 2026-07-05  | `Leetcode`              |
-| [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)  | 2026-07-05  | `Geeks For Geeks`       |
+| Problem                                                                                   | Date Solved | Platform              |
+|-------------------------------------------------------------------------------------------|-------------|-----------------------|
+| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 2026-01-15  | `Leetcode`            |
+| [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | 2026-07-05  | `Leetcode`            |
+| [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)  | 2026-07-05  | `GeeksForGeeks`       |
 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | 2026-07-06  | `Leetcode` |
-| [Min distance between two nodes of a Binary Tree](https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)  | 2026-07-06  | `Geeks For Geeks` |
+| [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  | 2026-07-07  | `Leetcode` |
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;hard</summary>
+
+| Problem | Date Solved | Platform |
+|---|---|---|
+| [Min distance between two nodes of a Binary Tree](https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1)  | 2026-07-06  | `GeeksForGeeks` |
 
 </details>
-Files: `Node.java`, `TreeNode.java`
+
+Files: `Node.java`, `TreeNode.java` 
 
 </details>
 

@@ -1,7 +1,4 @@
-package binaryTree.medium;
-
-
-
+package binaryTree.hard;
 
 /*
 problem url: https://www.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1
