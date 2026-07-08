@@ -65,7 +65,7 @@ Files: `ArrayBasic.java`
 </details>
 
 <details>
-<summary><b>binaryTree</b> <img src="https://img.shields.io/badge/7-blue?style=flat-square"></summary>
+<summary><b>binaryTree</b> <img src="https://img.shields.io/badge/8-blue?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;basics</summary>
@@ -86,6 +86,8 @@ Files: `ArrayBasic.java`
 | [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)  | 2026-07-05  | `GeeksForGeeks`       |
 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | 2026-07-06  | `Leetcode` |
 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  | 2026-07-07  | `Leetcode` |
+| [Path Sum II](https://leetcode.com/problems/path-sum-ii/)  | 2026-07-08  | `Leetcode` |
+
 </details>
 
 <details>
