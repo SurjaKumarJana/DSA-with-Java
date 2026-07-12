@@ -65,7 +65,7 @@ Files: `ArrayBasic.java`
 </details>
 
 <details>
-<summary><b>binaryTree</b> <img src="https://img.shields.io/badge/8-blue?style=flat-square"></summary>
+<summary><b>binaryTree</b> <img src="https://img.shields.io/badge/11-blue?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;basics</summary>
@@ -87,6 +87,9 @@ Files: `ArrayBasic.java`
 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | 2026-07-06  | `Leetcode` |
 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  | 2026-07-07  | `Leetcode` |
 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/)  | 2026-07-08  | `Leetcode` |
+| [Preorder traversal (Iterative)](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1)  | 2026-07-12  | `GeeksForGeeks` |
+| [Iterative Inorder](https://www.geeksforgeeks.org/problems/inorder-traversal-iterative/1)  | 2026-07-12  | `GeeksForGeeks` |
+| [Iterative Postorder](https://www.geeksforgeeks.org/problems/postorder-traversal-iterative/1)  | 2026-07-12  | `GeeksForGeeks` |
 
 </details>
 
