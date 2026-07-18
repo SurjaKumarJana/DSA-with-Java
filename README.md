@@ -65,7 +65,7 @@ Files: `ArrayBasic.java`
 </details>
 
 <details>
-<summary><b>binaryTree</b> <img src="https://img.shields.io/badge/13-blue?style=flat-square"></summary>
+<summary><b>binaryTree</b> <img src="https://img.shields.io/badge/14-blue?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;basics</summary>
@@ -92,6 +92,7 @@ Files: `ArrayBasic.java`
 | [Iterative Postorder](https://www.geeksforgeeks.org/problems/postorder-traversal-iterative/1)  | 2026-07-12  | `GeeksForGeeks` |
 | [Tree Boundary Traversal](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)  | 2026-07-16  | `GeeksForGeeks` |
 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)  | 2026-07-17  | `Leetcode` |
+| [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)  | 2026-07-18  | `Leetcode` |
 
 </details>
 
