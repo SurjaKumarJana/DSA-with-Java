@@ -65,6 +65,15 @@ Files: `ArrayBasic.java`
 </details>
 
 <details>
+<summary><b>binarySearchTree</b> <img src="https://img.shields.io/badge/2-blue?style=flat-square"></summary>
+
+| Problem                                                                                   | Date Solved | Platform     |
+|-------------------------------------------------------------------------------------------|-------------|--------------|
+| [Minimum in BST](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | 2026-07-20  | `GeeksForGeeks`   |
+| [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2026-07-20  | `Leetcode`  |
+</details>
+
+<details>
 <summary><b>binaryTree</b> <img src="https://img.shields.io/badge/14-blue?style=flat-square"></summary>
 
 <details>
