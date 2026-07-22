@@ -67,11 +67,39 @@ Files: `ArrayBasic.java`
 <details>
 <summary><b>binarySearchTree</b> <img src="https://img.shields.io/badge/2-blue?style=flat-square"></summary>
 
+<details>
+<summary>&nbsp;&nbsp;basics</summary>
+
 | Problem                                                                                   | Date Solved | Platform     |
 |-------------------------------------------------------------------------------------------|-------------|--------------|
 | [Minimum in BST](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | 2026-07-20  | `GeeksForGeeks`   |
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2026-07-20  | `Leetcode`  |
+| [BST Keys in a Range](https://www.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1) | 2026-07-22  | `GeeksForGeeks`  |
+
 </details>
+
+<details>
+<summary>&nbsp;&nbsp;medium</summary>
+
+| Problem                                                                                   | Date Solved | Platform     |
+|-------------------------------------------------------------------------------------------|-------------|--------------|
+| [Count BST nodes that lie in a given range](https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1) | 2026-07-22  | `GeeksForGeeks`   |
+| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 2026-07-22  | `Leetcode`  |
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;hard</summary>
+
+| Problem | Date Solved | Platform     |
+|---------|-------------|--------------|
+| [](#)   | 2026-07-20  | `GeeksForGeeks`   |
+| [](#)   | 2026-07-20  | `Leetcode`  |
+</details>
+
+
+</details>
+
+
 
 <details>
 <summary><b>binaryTree</b> <img src="https://img.shields.io/badge/14-blue?style=flat-square"></summary>
