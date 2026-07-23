@@ -85,6 +85,8 @@ Files: `ArrayBasic.java`
 |-------------------------------------------------------------------------------------------|-------------|--------------|
 | [Count BST nodes that lie in a given range](https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1) | 2026-07-22  | `GeeksForGeeks`   |
 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 2026-07-22  | `Leetcode`  |
+| [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 2026-07-23  | `Leetcode`  |
+| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 2026-07-23  | `Leetcode`  |
 </details>
 
 <details>
