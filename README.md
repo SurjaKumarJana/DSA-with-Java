@@ -65,7 +65,7 @@ Files: `ArrayBasic.java`
 </details>
 
 <details>
-<summary><b>binarySearchTree</b> <img src="https://img.shields.io/badge/2-blue?style=flat-square"></summary>
+<summary><b>binarySearchTree</b> <img src="https://img.shields.io/badge/11-blue?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;basics</summary>
@@ -75,6 +75,7 @@ Files: `ArrayBasic.java`
 | [Minimum in BST](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1) | 2026-07-20  | `GeeksForGeeks`   |
 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | 2026-07-20  | `Leetcode`  |
 | [BST Keys in a Range](https://www.geeksforgeeks.org/problems/print-bst-elements-in-given-range/1) | 2026-07-22  | `GeeksForGeeks`  |
+| [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | 2026-07-25  | `Leetcode`  |
 
 </details>
 
@@ -87,6 +88,11 @@ Files: `ArrayBasic.java`
 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 2026-07-22  | `Leetcode`  |
 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 2026-07-23  | `Leetcode`  |
 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 2026-07-23  | `Leetcode`  |
+| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 2026-07-25  | `Leetcode`  |
+| [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 2026-07-25  | `Leetcode`  |
+| [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | 2026-07-25  | `Leetcode`  |
+
+
 </details>
 
 <details>
