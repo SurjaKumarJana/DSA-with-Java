@@ -98,10 +98,10 @@ Files: `ArrayBasic.java`
 <details>
 <summary>&nbsp;&nbsp;hard</summary>
 
-| Problem | Date Solved | Platform     |
-|---------|-------------|--------------|
-| [](#)   | 2026-07-20  | `GeeksForGeeks`   |
-| [](#)   | 2026-07-20  | `Leetcode`  |
+| Problem                            | Date Solved | Platform     |
+|------------------------------------|------------|--------------|
+| [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | 2026-09-22 | `Leetcode`   |
+| [Binary Tree Inorder Traversal-Morris Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 2026-09-22 | `Leetcode`  |
 </details>
 
 
