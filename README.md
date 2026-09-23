@@ -82,15 +82,16 @@ Files: `ArrayBasic.java`
 <details>
 <summary>&nbsp;&nbsp;medium</summary>
 
-| Problem                                                                                   | Date Solved | Platform     |
-|-------------------------------------------------------------------------------------------|-------------|--------------|
+| Problem                                                                                                                         | Date Solved | Platform     |
+|---------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|
 | [Count BST nodes that lie in a given range](https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1) | 2026-07-22  | `GeeksForGeeks`   |
-| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | 2026-07-22  | `Leetcode`  |
-| [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | 2026-07-23  | `Leetcode`  |
-| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | 2026-07-23  | `Leetcode`  |
-| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | 2026-07-25  | `Leetcode`  |
+| [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)                                                             | 2026-07-22  | `Leetcode`  |
+| [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)                             | 2026-07-23  | `Leetcode`  |
+| [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)                                   | 2026-07-23  | `Leetcode`  |
+| [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                       | 2026-07-25  | `Leetcode`  |
 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | 2026-07-25  | `Leetcode`  |
-| [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | 2026-07-25  | `Leetcode`  |
+| [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/)                                       | 2026-07-25  | `Leetcode`  |
+| [Flatten Binary Tree to Linked List - Morris traversal](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)             | 2026-09-23  | `Leetcode`  |
 
 
 </details>
@@ -99,9 +100,10 @@ Files: `ArrayBasic.java`
 <summary>&nbsp;&nbsp;hard</summary>
 
 | Problem                            | Date Solved | Platform     |
-|------------------------------------|------------|--------------|
-| [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | 2026-09-22 | `Leetcode`   |
-| [Binary Tree Inorder Traversal-Morris Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 2026-09-22 | `Leetcode`  |
+|------------------------------------|-------------|--------------|
+| [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | 2026-09-22  | `Leetcode`   |
+| [Binary Tree Inorder Traversal-Morris Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 2026-09-22  | `Leetcode`  |
+| [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | 2026-09-23  | `Leetcode`  |
 </details>
 
 
