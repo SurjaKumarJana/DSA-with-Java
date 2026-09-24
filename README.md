@@ -56,7 +56,7 @@ Files: `ArrayBasic.java`
 </details>
 
 <details>
-<summary><b>binarySearch</b> <img src="https://img.shields.io/badge/1-blue?style=flat-square"></summary>
+<summary><b>binarySearch</b> <img src="https://img.shields.io/badge/15-blue?style=flat-square"></summary>
 
 | Problem | Date Solved | Commit Message |
 |---|---|---|
@@ -65,7 +65,7 @@ Files: `ArrayBasic.java`
 </details>
 
 <details>
-<summary><b>binarySearchTree</b> <img src="https://img.shields.io/badge/11-blue?style=flat-square"></summary>
+<summary><b>binarySearchTree</b> <img src="https://img.shields.io/badge/16-blue?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;basics</summary>
@@ -105,7 +105,6 @@ Files: `ArrayBasic.java`
 | [Binary Tree Inorder Traversal-Morris Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | 2026-09-22  | `Leetcode`  |
 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | 2026-09-23  | `Leetcode`  |
 </details>
-
 
 </details>
 
@@ -155,6 +154,40 @@ Files: `ArrayBasic.java`
 Files: `Node.java`, `TreeNode.java` 
 
 </details>
+
+<details>
+<summary><b> heap </b> <img src="https://img.shields.io/badge/5-green?style=flat-square"></summary>
+
+<details>
+<summary>&nbsp;&nbsp;easy </summary>
+
+| Problem                                                                                   | Date Solved | Platform     |
+|-------------------------------------------------------------------------------------------|-------------|--------------|
+| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | 2026-09-24  | `Leetcode`   |
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;medium </summary>
+
+| Problem                                                                                                                         | Date Solved | Platform     |
+|---------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|
+| [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 2026-09-24  | `Leetcode`   |
+| [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | 2026-09-24  | `GeeksForGeeks`   |
+| [Nearly sorted](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1) | 2026-09-24  | `GeeksForGeeks`   |
+| [Min Cost to Connect Ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | 2026-09-24  | `GeeksForGeeks`   |
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;hard </summary>
+
+| Problem                            | Date Solved | Platform     |
+|------------------------------------|-------------|--------------|
+
+</details>
+</details>
+
 
 <details>
 <summary><b>helperCode</b></summary>
