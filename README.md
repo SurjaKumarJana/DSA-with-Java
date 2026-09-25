@@ -156,7 +156,7 @@ Files: `Node.java`, `TreeNode.java`
 </details>
 
 <details>
-<summary><b> heap </b> <img src="https://img.shields.io/badge/5-green?style=flat-square"></summary>
+<summary><b> heap </b> <img src="https://img.shields.io/badge/7-green?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;easy </summary>
@@ -176,6 +176,8 @@ Files: `Node.java`, `TreeNode.java`
 | [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | 2026-09-24  | `GeeksForGeeks`   |
 | [Nearly sorted](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1) | 2026-09-24  | `GeeksForGeeks`   |
 | [Min Cost to Connect Ropes](https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1) | 2026-09-24  | `GeeksForGeeks`   |
+| [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 2026-09-25  | `Leetcode`   |
+| [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 2026-09-25  | `Leetcode`   |
 
 </details>
 
