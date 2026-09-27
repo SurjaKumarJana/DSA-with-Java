@@ -2,6 +2,7 @@ package binaryTree;
 
 public class Node {
     public int val;
+    public int data;
     public Node left;//left child node
     public Node right;//right child node
 

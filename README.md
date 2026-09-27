@@ -156,7 +156,7 @@ Files: `Node.java`, `TreeNode.java`
 </details>
 
 <details>
-<summary><b> heap </b> <img src="https://img.shields.io/badge/8-green?style=flat-square"></summary>
+<summary><b> heap </b> <img src="https://img.shields.io/badge/11-green?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;easy </summary>
@@ -170,8 +170,8 @@ Files: `Node.java`, `TreeNode.java`
 <details>
 <summary>&nbsp;&nbsp;medium </summary>
 
-| Problem                                                                                                                         | Date Solved | Platform     |
-|---------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|
+| Problem                                                                                                                        | Date Solved | Platform     |
+|--------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|
 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | 2026-09-24  | `Leetcode`   |
 | [Kth Smallest](https://www.geeksforgeeks.org/problems/kth-smallest-element5635/1) | 2026-09-24  | `GeeksForGeeks`   |
 | [Nearly sorted](https://www.geeksforgeeks.org/problems/nearly-sorted-1587115620/1) | 2026-09-24  | `GeeksForGeeks`   |
@@ -179,6 +179,9 @@ Files: `Node.java`, `TreeNode.java`
 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | 2026-09-25  | `Leetcode`   |
 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) | 2026-09-25  | `Leetcode`   |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | 2026-09-26  | `Leetcode`   |
+| [Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/) | 2026-09-27  | `Leetcode`   |
+| [Is Binary Tree Heap](https://www.geeksforgeeks.org/problems/is-binary-tree-heap/1) | 2026-09-27  | `GeeksForGeeks`   |
+| [BST to Special Max Heap](https://www.geeksforgeeks.org/problems/bst-to-max-heap/1) | 2026-09-27  | `GeeksForGeeks`   |
 
 </details>
 
