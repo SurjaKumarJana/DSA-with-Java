@@ -190,6 +190,7 @@ Files: `Node.java`, `TreeNode.java`
 
 | Problem                            | Date Solved | Platform     |
 |------------------------------------|-------------|--------------|
+| [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | 2026-09-28  | `Leetcode`   |
 
 </details>
 </details>
