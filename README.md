@@ -156,7 +156,7 @@ Files: `Node.java`, `TreeNode.java`
 </details>
 
 <details>
-<summary><b> heap </b> <img src="https://img.shields.io/badge/11-green?style=flat-square"></summary>
+<summary><b> heap </b> <img src="https://img.shields.io/badge/12-blue?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;easy </summary>
@@ -243,6 +243,46 @@ Files: `CustomCode.java` — shared utility/helper classes used across solutions
 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 2026-01-25 | `feat: add climbing stairs recursive` |
 
 </details>
+
+
+
+<details>
+<summary><b> Set And Map </b> <img src="https://img.shields.io/badge/5-green?style=flat-square"></summary>
+
+<details>
+<summary>&nbsp;&nbsp;easy </summary>
+
+| Problem                                                                                   | Date Solved | Platform     |
+|-------------------------------------------------------------------------------------------|-------------|--------------|
+| [Count Distinct in Array](https://www.geeksforgeeks.org/problems/find-distinct-elements--130928/1) | 2026-09-29  | `GeeksForGeeks`   |
+| [Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/problems/key-pair5616/1) | 2026-09-29  | `GeeksForGeeks`   |
+| [Most Frequent Character](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1) | 2026-09-29  | `GeeksForGeeks`   |
+| [Array Subset](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | 2026-09-29  | `GeeksForGeeks`   |
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;medium </summary>
+
+| Problem                                                                                                                        | Date Solved | Platform     |
+|--------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|
+| [Missing Element in Range](https://www.geeksforgeeks.org/problems/missing-element-in-range/1) | 2026-09-29  | `GeeksForGeeks`   |
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;hard </summary>
+
+| Problem                            | Date Solved | Platform     |
+|------------------------------------|-------------|--------------|
+
+
+</details>
+
+</details>
+
+
+
 
 <details>
 <summary><b>sortingAlgo</b> <img src="https://img.shields.io/badge/4-blue?style=flat-square"></summary>
