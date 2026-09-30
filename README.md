@@ -247,7 +247,7 @@ Files: `CustomCode.java` — shared utility/helper classes used across solutions
 
 
 <details>
-<summary><b> Set And Map </b> <img src="https://img.shields.io/badge/5-green?style=flat-square"></summary>
+<summary><b> Set And Map </b> <img src="https://img.shields.io/badge/7-green?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;easy </summary>
@@ -258,6 +258,8 @@ Files: `CustomCode.java` — shared utility/helper classes used across solutions
 | [Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/problems/key-pair5616/1) | 2026-09-29  | `GeeksForGeeks`   |
 | [Most Frequent Character](https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1) | 2026-09-29  | `GeeksForGeeks`   |
 | [Array Subset](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | 2026-09-29  | `GeeksForGeeks`   |
+| [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 2026-09-30  | `Leetcode`   |
+| [Count Equal Pairs in String](https://www.geeksforgeeks.org/problems/count-number-of-equal-pairs-in-a-string0520/1) | 2026-09-30  | `GeeksForGeeks`   |
 
 </details>
 
