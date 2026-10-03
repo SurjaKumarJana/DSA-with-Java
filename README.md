@@ -247,7 +247,7 @@ Files: `CustomCode.java` — shared utility/helper classes used across solutions
 
 
 <details>
-<summary><b> Set And Map </b> <img src="https://img.shields.io/badge/8-green?style=flat-square"></summary>
+<summary><b> Set And Map </b> <img src="https://img.shields.io/badge/10-green?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;easy </summary>
@@ -266,10 +266,12 @@ Files: `CustomCode.java` — shared utility/helper classes used across solutions
 <details>
 <summary>&nbsp;&nbsp;medium </summary>
 
-| Problem                                                                                                                        | Date Solved | Platform     |
-|--------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|
-| [Missing Element in Range](https://www.geeksforgeeks.org/problems/missing-element-in-range/1) | 2026-09-29  | `GeeksForGeeks`   |
+| Problem                                                                                                                       | Date Solved | Platform     |
+|-------------------------------------------------------------------------------------------------------------------------------|-------------|--------------|
+| [Missing Element in Range](https://www.geeksforgeeks.org/problems/missing-element-in-range/1)                                 | 2026-09-29  | `GeeksForGeeks`   |
 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | 2026-10-01  | `Leetcode`   |
+| [Top View of Binary Tree](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)                                   | 2026-10-03  | `GeeksForGeeks`   |
+| [Bottom View of Binary Tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)                               | 2026-10-03  | `GeeksForGeeks`   |
 
 </details>
 
