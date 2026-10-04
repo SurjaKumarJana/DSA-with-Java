@@ -5,7 +5,8 @@ public class Node {
     public int data;
     public Node left;//left child node
     public Node right;//right child node
-
+    public Node random;
+    public Node next;
     public Node(int val){
         this.val = val;
     }
