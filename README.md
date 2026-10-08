@@ -156,6 +156,36 @@ Files: `Node.java`, `TreeNode.java`
 </details>
 
 <details>
+<summary><b>bitManipulation</b> <img src="https://img.shields.io/badge/1-green?style=flat-square"></summary>
+
+<details>
+<summary>&nbsp;&nbsp;easy</summary>
+
+| Problem | Date Solved | Platform |
+|---|-------------|---|
+| [Single Number](https://leetcode.com/problems/single-number/) | 2026-10-08  | `Leetcode` |
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;medium</summary>
+
+| Problem                                                                                   | Date Solved | Platform              |
+|-------------------------------------------------------------------------------------------|-------------|-----------------------|
+
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;hard</summary>
+
+| Problem | Date Solved | Platform |
+|---|---|---|
+
+</details>
+
+</details>
+
+<details>
 <summary><b> heap </b> <img src="https://img.shields.io/badge/12-blue?style=flat-square"></summary>
 
 <details>
@@ -247,7 +277,7 @@ Files: `CustomCode.java` — shared utility/helper classes used across solutions
 
 
 <details>
-<summary><b> Set And Map </b> <img src="https://img.shields.io/badge/13-green?style=flat-square"></summary>
+<summary><b> Set And Map </b> <img src="https://img.shields.io/badge/13-blue?style=flat-square"></summary>
 
 <details>
 <summary>&nbsp;&nbsp;easy </summary>
